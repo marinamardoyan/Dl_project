@@ -1,6 +1,6 @@
 Инструкция по загрузке и отработке веб-приложения в стримлайте:
 
-В гугл диске по этой ссылке  https://drive.google.com/drive/folders/1K60Sfuzm4ZqPfjt-tUPIKiCs5dLvpucw?usp=drive_link, можно найти файл model.pth. Его необходимо скачать вместе с другими файлами из папки web.
+В гугл диске по этой ссылке  https://drive.google.com/drive/folders/1K60Sfuzm4ZqPfjt-tUPIKiCs5dLvpucw?usp=drive_link, можно найти файл checkpoint_epoch_5.pth. Его необходимо скачать вместе с другими файлами из папки web.
 Все файлы нужно объединить в одну папку и запустить командную строку(для Windows) с запросом " cd 'путь к папке web'.
 Затем нужно выполнить команду pip install -r requirements.txt.
 И, наконец, streamlit run app.py
