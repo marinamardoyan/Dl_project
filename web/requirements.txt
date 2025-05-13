@@ -1,0 +1,10 @@
+
+streamlit>=1.30.0
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.37.0
+yt-dlp>=2024.3.10
+pydub
+numpy
+opencv-python
+Pillow
